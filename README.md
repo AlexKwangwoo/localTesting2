@@ -1,5 +1,4 @@
 # localTesting2
 
 testing
-Edit!!! bt git 7
-edit by local 7
+Edit!!! bt git 8
